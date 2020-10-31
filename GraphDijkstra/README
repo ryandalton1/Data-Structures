@@ -1,0 +1,5 @@
+In my opinion this is a very cool piece of code. Given a list of people and they're neighbors create a graph.
+
+Then you can look at several things in the graph. You can add people, add edges, print the graph, and print people who are N hops away from another person.
+
+This last function is the most interesting because it utilizes the Dijkstra algorithm. This code is found within Graph.cpp "peopleNHopsAway()" if you would like to read it
