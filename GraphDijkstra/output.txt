@@ -1,0 +1,119 @@
+Creating object Graph
+======Main Menu======
+1. Print list of people and their acquaintances
+2. Print distance between 2 people
+3. Print people who are 'n' hops away
+4. Quit
+5. Test Cases
+Please enter your selection: 1
+Divya--->Tessa***Tang***Simon***
+Paramvir--->Akhil***Earl***
+Tessa--->Danielle***Divya***
+Ryan--->Kenneth***Ian***
+Drew--->Zack***
+Nick--->Ian***
+Danielle--->Nathan***Tessa***Tang***
+Grey--->Kenneth***
+Sam--->Zack***
+Timothy--->Simon***
+Connor--->Kenneth***
+Nathan--->Danielle***
+Kylie--->Tang***
+Ian--->Nick***Daniel***Ria***Ryan***
+Zack--->Sam***Drew***Earl***
+Simon--->Timothy***John***Divya***
+Daniel--->Ian***
+Akhil--->Paramvir***Aurangzeb***
+Aurangzeb--->Akhil***Kieran***
+Earl--->Paramvir***Kieran***Zack***
+Kenneth--->Connor***Ryan***Grey***
+Tang--->Kylie***Divya***Danielle***
+Ria--->Ian***
+John--->Simon***
+Kieran--->Aurangzeb***Earl***
+======Main Menu======
+1. Print list of people and their acquaintances
+2. Print distance between 2 people
+3. Print people who are 'n' hops away
+4. Quit
+5. Test Cases
+Please enter your selection: 2
+Please enter the first person: Kenneth
+Please enter the second person: Paramvir
+No path between them found
+======Main Menu======
+1. Print list of people and their acquaintances
+2. Print distance between 2 people
+3. Print people who are 'n' hops away
+4. Quit
+5. Test Cases
+Please enter your selection: 3
+Please enter the first person: Kenneth
+Please enter the number of hops: 2
+Ian
+======Main Menu======
+1. Print list of people and their acquaintances
+2. Print distance between 2 people
+3. Print people who are 'n' hops away
+4. Quit
+5. Test Cases
+Please enter your selection: 5
+Printing all people and who they're adjacent to
+Divya--->Tessa***Tang***Simon***
+Paramvir--->Akhil***Earl***
+Tessa--->Danielle***Divya***
+Ryan--->Kenneth***Ian***
+Drew--->Zack***
+Nick--->Ian***
+Danielle--->Nathan***Tessa***Tang***
+Grey--->Kenneth***
+Sam--->Zack***
+Timothy--->Simon***
+Connor--->Kenneth***
+Nathan--->Danielle***
+Kylie--->Tang***
+Ian--->Nick***Daniel***Ria***Ryan***
+Zack--->Sam***Drew***Earl***
+Simon--->Timothy***John***Divya***
+Daniel--->Ian***
+Akhil--->Paramvir***Aurangzeb***
+Aurangzeb--->Akhil***Kieran***
+Earl--->Paramvir***Kieran***Zack***
+Kenneth--->Connor***Ryan***Grey***
+Tang--->Kylie***Divya***Danielle***
+Ria--->Ian***
+John--->Simon***
+Kieran--->Aurangzeb***Earl***
+Printing distance between two people next to each other in same group - Timothy and Simon
+The shortest distance between Timothy and Simon is 3
+Printing distance between two people in same group not adjacent - Kylie and Nathan
+The shortest distance between Kylie and Nathan is 7
+Printing distance between two people in different groups - Kylie and Sam
+No path between them found
+Printing distance between two people, one real and one fake - Paramvir and Rio
+The second name was not found
+Printing distance between two people, one fake and one real - Hope and Ryan
+This first person does not exist
+Printing distance between two fake people - Aiden and Rodger
+This first person does not exist
+Printing people who are 1 hop away from a real person - Connor
+Kenneth
+Printing people who are 2 hops away from a real person - Connor
+Ryan
+Grey
+Printing people who are a overly large number of hops away 10 from a real person - Connor
+Printing people who are 1 hop away from a fake person - Ropo
+This first person does not exist
+Printing people who are 2 hops away from a fake person - Ropo
+This first person does not exist
+Printing people who are a overly large number of hops away 10 from a fake person - Ropo
+This first person does not exist
+Printing all people and who they're adjacent to if there is no graph
+======Main Menu======
+1. Print list of people and their acquaintances
+2. Print distance between 2 people
+3. Print people who are 'n' hops away
+4. Quit
+5. Test Cases
+Please enter your selection: 4
+Goodbye!
