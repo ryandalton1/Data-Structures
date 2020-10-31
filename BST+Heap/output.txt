@@ -1,0 +1,185 @@
+1Shawshank Redemption199445
+2The Godfather197234
+3The Godfather: Part II197412
+4The Dark Knight200890
+5Pulp Fiction199434
+612 Angry Men195756
+7Schindler's List199310
+8The Good the Bad and the Ugly19662
+9The Lord of the Rings: The Return of the King20034
+10Fight Club19996
+11The Lord of the Rings: The Fellowship of the Ring200120
+12Star Wars: Episode V - The Empire Strikes Back198012
+13Forrest Gump19941
+14Inception201010
+15One Flew Over the Cuckoo's Nest197510
+16The Lord of the Rings: The Two Towers20025
+17Goodfellas19905
+18The Matrix19995
+19Star Wars: Episode IV - A New Hope19776
+20Seven Samurai19547
+21Interstellar20148
+22City of God20029
+23Se7en199511
+24The Usual Suspects19952
+25The Silence of the Lambs199119
+26It's a Wonderful Life194621
+27Once Upon a Time in the West196812
+28Leon: The Professional199431
+29Life Is Beautiful19973
+30Casablanca19425
+31Raiders of the Lost Ark19816
+32American History X19981
+33Saving Private Ryan19983
+34City Lights193110
+35Spirited Away200110
+36Psycho19606
+37Rear Window19547
+38Whiplash20148
+39The Untouchables20113
+40Modern Times19369
+41Terminator 2: Judgment Day199110
+42Memento20009
+43The Green Mile19998
+44The Pianist20027
+45The Departed20067
+46Apocalypse Now19795
+47Sunset Blvd.19505
+48Gladiator20005
+49Dr. Strangelove or: How I Learned to Stop Worrying and Love the Bomb19645
+50Back to the Future19855
+======Main Menu======
+1. Find a movie
+2. Rent a movie
+3. Print the inventory
+4. Delete a movie
+5. Count the movies
+6. Print top 10 movies between two letters
+7. Quit
+Please enter your selection: 3
+1
+Movie: 12 Angry Men 56
+A
+Movie: Apocalypse Now 5
+Movie: American History X 1
+B
+Movie: Back to the Future 5
+C
+Movie: City Lights 10
+Movie: Casablanca 5
+Movie: City of God 9
+D
+Movie: Dr. Strangelove or: How I Learned to Stop Worrying and Love the Bomb 5
+F
+Movie: Fight Club 6
+Movie: Forrest Gump 1
+G
+Movie: Gladiator 5
+Movie: Goodfellas 5
+I
+Movie: It's a Wonderful Life 21
+Movie: Interstellar 8
+Movie: Inception 10
+L
+Movie: Leon: The Professional 31
+Movie: Life Is Beautiful 3
+M
+Movie: Memento 9
+Movie: Modern Times 9
+O
+Movie: Once Upon a Time in the West 12
+Movie: One Flew Over the Cuckoo's Nest 10
+P
+Movie: Pulp Fiction 34
+Movie: Psycho 6
+R
+Movie: Rear Window 7
+Movie: Raiders of the Lost Ark 6
+S
+Movie: Shawshank Redemption 45
+Movie: Spirited Away 10
+Movie: Star Wars: Episode V - The Empire Strikes Back 12
+Movie: Schindler's List 10
+Movie: Seven Samurai 7
+Movie: Se7en 11
+Movie: Saving Private Ryan 3
+Movie: Star Wars: Episode IV - A New Hope 6
+Movie: Sunset Blvd. 5
+T
+Movie: The Dark Knight 90
+Movie: The Silence of the Lambs 19
+Movie: The Godfather 34
+Movie: The Matrix 5
+Movie: The Godfather: Part II 12
+Movie: The Lord of the Rings: The Fellowship of the Ring 20
+Movie: The Departed 7
+Movie: The Good the Bad and the Ugly 2
+Movie: The Usual Suspects 2
+Movie: The Lord of the Rings: The Return of the King 4
+Movie: The Untouchables 3
+Movie: Terminator 2: Judgment Day 10
+Movie: The Green Mile 8
+Movie: The Lord of the Rings: The Two Towers 5
+Movie: The Pianist 7
+W
+Movie: Whiplash 8
+======Main Menu======
+1. Find a movie
+2. Rent a movie
+3. Print the inventory
+4. Delete a movie
+5. Count the movies
+6. Print top 10 movies between two letters
+7. Quit
+Please enter your selection: 7
+Goodbye!
+Deleting... 12 Angry Men
+Deleting... Apocalypse Now
+Deleting... Apocalypse Now
+Deleting... Back to the Future
+Deleting... City Lights
+Deleting... Casablanca
+Deleting... City Lights
+Deleting... Dr. Strangelove or: How I Learned to Stop Worrying and Love the Bomb
+Deleting... Fight Club
+Deleting... Fight Club
+Deleting... Gladiator
+Deleting... Gladiator
+Deleting... It's a Wonderful Life
+Deleting... Interstellar
+Deleting... It's a Wonderful Life
+Deleting... Leon: The Professional
+Deleting... Leon: The Professional
+Deleting... Memento
+Deleting... Memento
+Deleting... Once Upon a Time in the West
+Deleting... Once Upon a Time in the West
+Deleting... Pulp Fiction
+Deleting... Pulp Fiction
+Deleting... Rear Window
+Deleting... Rear Window
+Deleting... Shawshank Redemption
+Deleting... Spirited Away
+Deleting... Se7en
+Deleting... Schindler's List
+Deleting... Seven Samurai
+Deleting... Shawshank Redemption
+Deleting... Saving Private Ryan
+Deleting... Star Wars: Episode IV - A New Hope
+Deleting... Sunset Blvd.
+Deleting... The Dark Knight
+Deleting... The Silence of the Lambs
+Deleting... The Lord of the Rings: The Fellowship of the Ring
+Deleting... The Matrix
+Deleting... The Godfather: Part II
+Deleting... Terminator 2: Judgment Day
+Deleting... The Departed
+Deleting... The Good the Bad and the Ugly
+Deleting... The Usual Suspects
+Deleting... The Lord of the Rings: The Return of the King
+Deleting... The Untouchables
+Deleting... The Dark Knight
+Deleting... The Green Mile
+Deleting... The Lord of the Rings: The Two Towers
+Deleting... The Pianist
+Deleting... Whiplash
