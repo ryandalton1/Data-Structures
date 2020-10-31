@@ -1,0 +1,919 @@
+======Main Menu======
+1. Build Network
+2. Print Network Path
+3. Enqueue
+4. Dequeue
+5. Print Queue
+6. Send Entire Message
+7. Quit
+Please enter your selection: 1
+===CURRENT PATH===
+NULL <- Los Angeles <-> Phoenix <-> Denver <-> Dallas <-> St Louis <-> Chicago <-> Atlanta <-> Washington DC <-> New York <-> Boston -> NULL
+==================
+======Main Menu======
+1. Build Network
+2. Print Network Path
+3. Enqueue
+4. Dequeue
+5. Print Queue
+6. Send Entire Message
+7. Quit
+Please enter your selection: 6
+E: A
+H: 0
+T: 0
+E: liger
+H: 0
+T: 1
+E: it's
+H: 0
+T: 2
+E: pretty
+H: 0
+T: 3
+E: much
+H: 0
+T: 4
+E: my
+H: 0
+T: 5
+E: favorite
+H: 0
+T: 6
+E: animal.
+H: 0
+T: 7
+E: It's
+H: 0
+T: 8
+E: like
+H: 0
+T: 9
+Los Angeles received A
+Phoenix received A
+Denver received A
+Dallas received A
+St Louis received A
+Chicago received A
+Atlanta received A
+Washington DC received A
+New York received A
+Boston received A
+New York received A
+Washington DC received A
+Atlanta received A
+Chicago received A
+St Louis received A
+Dallas received A
+Denver received A
+Phoenix received A
+Los Angeles received A
+H: 1
+T: 9
+Los Angeles received liger
+Phoenix received liger
+Denver received liger
+Dallas received liger
+St Louis received liger
+Chicago received liger
+Atlanta received liger
+Washington DC received liger
+New York received liger
+Boston received liger
+New York received liger
+Washington DC received liger
+Atlanta received liger
+Chicago received liger
+St Louis received liger
+Dallas received liger
+Denver received liger
+Phoenix received liger
+Los Angeles received liger
+H: 2
+T: 9
+Los Angeles received it's
+Phoenix received it's
+Denver received it's
+Dallas received it's
+St Louis received it's
+Chicago received it's
+Atlanta received it's
+Washington DC received it's
+New York received it's
+Boston received it's
+New York received it's
+Washington DC received it's
+Atlanta received it's
+Chicago received it's
+St Louis received it's
+Dallas received it's
+Denver received it's
+Phoenix received it's
+Los Angeles received it's
+H: 3
+T: 9
+Los Angeles received pretty
+Phoenix received pretty
+Denver received pretty
+Dallas received pretty
+St Louis received pretty
+Chicago received pretty
+Atlanta received pretty
+Washington DC received pretty
+New York received pretty
+Boston received pretty
+New York received pretty
+Washington DC received pretty
+Atlanta received pretty
+Chicago received pretty
+St Louis received pretty
+Dallas received pretty
+Denver received pretty
+Phoenix received pretty
+Los Angeles received pretty
+H: 4
+T: 9
+Los Angeles received much
+Phoenix received much
+Denver received much
+Dallas received much
+St Louis received much
+Chicago received much
+Atlanta received much
+Washington DC received much
+New York received much
+Boston received much
+New York received much
+Washington DC received much
+Atlanta received much
+Chicago received much
+St Louis received much
+Dallas received much
+Denver received much
+Phoenix received much
+Los Angeles received much
+H: 5
+T: 9
+Los Angeles received my
+Phoenix received my
+Denver received my
+Dallas received my
+St Louis received my
+Chicago received my
+Atlanta received my
+Washington DC received my
+New York received my
+Boston received my
+New York received my
+Washington DC received my
+Atlanta received my
+Chicago received my
+St Louis received my
+Dallas received my
+Denver received my
+Phoenix received my
+Los Angeles received my
+H: 6
+T: 9
+Los Angeles received favorite
+Phoenix received favorite
+Denver received favorite
+Dallas received favorite
+St Louis received favorite
+Chicago received favorite
+Atlanta received favorite
+Washington DC received favorite
+New York received favorite
+Boston received favorite
+New York received favorite
+Washington DC received favorite
+Atlanta received favorite
+Chicago received favorite
+St Louis received favorite
+Dallas received favorite
+Denver received favorite
+Phoenix received favorite
+Los Angeles received favorite
+H: 7
+T: 9
+Los Angeles received animal.
+Phoenix received animal.
+Denver received animal.
+Dallas received animal.
+St Louis received animal.
+Chicago received animal.
+Atlanta received animal.
+Washington DC received animal.
+New York received animal.
+Boston received animal.
+New York received animal.
+Washington DC received animal.
+Atlanta received animal.
+Chicago received animal.
+St Louis received animal.
+Dallas received animal.
+Denver received animal.
+Phoenix received animal.
+Los Angeles received animal.
+H: 8
+T: 9
+Los Angeles received It's
+Phoenix received It's
+Denver received It's
+Dallas received It's
+St Louis received It's
+Chicago received It's
+Atlanta received It's
+Washington DC received It's
+New York received It's
+Boston received It's
+New York received It's
+Washington DC received It's
+Atlanta received It's
+Chicago received It's
+St Louis received It's
+Dallas received It's
+Denver received It's
+Phoenix received It's
+Los Angeles received It's
+H: 9
+T: 9
+Los Angeles received like
+Phoenix received like
+Denver received like
+Dallas received like
+St Louis received like
+Chicago received like
+Atlanta received like
+Washington DC received like
+New York received like
+Boston received like
+New York received like
+Washington DC received like
+Atlanta received like
+Chicago received like
+St Louis received like
+Dallas received like
+Denver received like
+Phoenix received like
+Los Angeles received like
+H: -1
+T: -1
+E: a
+H: 0
+T: 0
+E: lion
+H: 0
+T: 1
+E: and
+H: 0
+T: 2
+E: a
+H: 0
+T: 3
+E: tiger
+H: 0
+T: 4
+E: mixed
+H: 0
+T: 5
+E: -
+H: 0
+T: 6
+E: bred
+H: 0
+T: 7
+E: for
+H: 0
+T: 8
+E: its
+H: 0
+T: 9
+Los Angeles received a
+Phoenix received a
+Denver received a
+Dallas received a
+St Louis received a
+Chicago received a
+Atlanta received a
+Washington DC received a
+New York received a
+Boston received a
+New York received a
+Washington DC received a
+Atlanta received a
+Chicago received a
+St Louis received a
+Dallas received a
+Denver received a
+Phoenix received a
+Los Angeles received a
+H: 1
+T: 9
+Los Angeles received lion
+Phoenix received lion
+Denver received lion
+Dallas received lion
+St Louis received lion
+Chicago received lion
+Atlanta received lion
+Washington DC received lion
+New York received lion
+Boston received lion
+New York received lion
+Washington DC received lion
+Atlanta received lion
+Chicago received lion
+St Louis received lion
+Dallas received lion
+Denver received lion
+Phoenix received lion
+Los Angeles received lion
+H: 2
+T: 9
+Los Angeles received and
+Phoenix received and
+Denver received and
+Dallas received and
+St Louis received and
+Chicago received and
+Atlanta received and
+Washington DC received and
+New York received and
+Boston received and
+New York received and
+Washington DC received and
+Atlanta received and
+Chicago received and
+St Louis received and
+Dallas received and
+Denver received and
+Phoenix received and
+Los Angeles received and
+H: 3
+T: 9
+Los Angeles received a
+Phoenix received a
+Denver received a
+Dallas received a
+St Louis received a
+Chicago received a
+Atlanta received a
+Washington DC received a
+New York received a
+Boston received a
+New York received a
+Washington DC received a
+Atlanta received a
+Chicago received a
+St Louis received a
+Dallas received a
+Denver received a
+Phoenix received a
+Los Angeles received a
+H: 4
+T: 9
+Los Angeles received tiger
+Phoenix received tiger
+Denver received tiger
+Dallas received tiger
+St Louis received tiger
+Chicago received tiger
+Atlanta received tiger
+Washington DC received tiger
+New York received tiger
+Boston received tiger
+New York received tiger
+Washington DC received tiger
+Atlanta received tiger
+Chicago received tiger
+St Louis received tiger
+Dallas received tiger
+Denver received tiger
+Phoenix received tiger
+Los Angeles received tiger
+H: 5
+T: 9
+Los Angeles received mixed
+Phoenix received mixed
+Denver received mixed
+Dallas received mixed
+St Louis received mixed
+Chicago received mixed
+Atlanta received mixed
+Washington DC received mixed
+New York received mixed
+Boston received mixed
+New York received mixed
+Washington DC received mixed
+Atlanta received mixed
+Chicago received mixed
+St Louis received mixed
+Dallas received mixed
+Denver received mixed
+Phoenix received mixed
+Los Angeles received mixed
+H: 6
+T: 9
+Los Angeles received -
+Phoenix received -
+Denver received -
+Dallas received -
+St Louis received -
+Chicago received -
+Atlanta received -
+Washington DC received -
+New York received -
+Boston received -
+New York received -
+Washington DC received -
+Atlanta received -
+Chicago received -
+St Louis received -
+Dallas received -
+Denver received -
+Phoenix received -
+Los Angeles received -
+H: 7
+T: 9
+Los Angeles received bred
+Phoenix received bred
+Denver received bred
+Dallas received bred
+St Louis received bred
+Chicago received bred
+Atlanta received bred
+Washington DC received bred
+New York received bred
+Boston received bred
+New York received bred
+Washington DC received bred
+Atlanta received bred
+Chicago received bred
+St Louis received bred
+Dallas received bred
+Denver received bred
+Phoenix received bred
+Los Angeles received bred
+H: 8
+T: 9
+Los Angeles received for
+Phoenix received for
+Denver received for
+Dallas received for
+St Louis received for
+Chicago received for
+Atlanta received for
+Washington DC received for
+New York received for
+Boston received for
+New York received for
+Washington DC received for
+Atlanta received for
+Chicago received for
+St Louis received for
+Dallas received for
+Denver received for
+Phoenix received for
+Los Angeles received for
+H: 9
+T: 9
+Los Angeles received its
+Phoenix received its
+Denver received its
+Dallas received its
+St Louis received its
+Chicago received its
+Atlanta received its
+Washington DC received its
+New York received its
+Boston received its
+New York received its
+Washington DC received its
+Atlanta received its
+Chicago received its
+St Louis received its
+Dallas received its
+Denver received its
+Phoenix received its
+Los Angeles received its
+H: -1
+T: -1
+E: skills
+H: 0
+T: 0
+E: in
+H: 0
+T: 1
+E: magic.
+H: 0
+T: 2
+E: Do
+H: 0
+T: 3
+E: the
+H: 0
+T: 4
+E: chickens
+H: 0
+T: 5
+E: have
+H: 0
+T: 6
+E: large
+H: 0
+T: 7
+E: talons?
+H: 0
+T: 8
+E: I
+H: 0
+T: 9
+Los Angeles received skills
+Phoenix received skills
+Denver received skills
+Dallas received skills
+St Louis received skills
+Chicago received skills
+Atlanta received skills
+Washington DC received skills
+New York received skills
+Boston received skills
+New York received skills
+Washington DC received skills
+Atlanta received skills
+Chicago received skills
+St Louis received skills
+Dallas received skills
+Denver received skills
+Phoenix received skills
+Los Angeles received skills
+H: 1
+T: 9
+Los Angeles received in
+Phoenix received in
+Denver received in
+Dallas received in
+St Louis received in
+Chicago received in
+Atlanta received in
+Washington DC received in
+New York received in
+Boston received in
+New York received in
+Washington DC received in
+Atlanta received in
+Chicago received in
+St Louis received in
+Dallas received in
+Denver received in
+Phoenix received in
+Los Angeles received in
+H: 2
+T: 9
+Los Angeles received magic.
+Phoenix received magic.
+Denver received magic.
+Dallas received magic.
+St Louis received magic.
+Chicago received magic.
+Atlanta received magic.
+Washington DC received magic.
+New York received magic.
+Boston received magic.
+New York received magic.
+Washington DC received magic.
+Atlanta received magic.
+Chicago received magic.
+St Louis received magic.
+Dallas received magic.
+Denver received magic.
+Phoenix received magic.
+Los Angeles received magic.
+H: 3
+T: 9
+Los Angeles received Do
+Phoenix received Do
+Denver received Do
+Dallas received Do
+St Louis received Do
+Chicago received Do
+Atlanta received Do
+Washington DC received Do
+New York received Do
+Boston received Do
+New York received Do
+Washington DC received Do
+Atlanta received Do
+Chicago received Do
+St Louis received Do
+Dallas received Do
+Denver received Do
+Phoenix received Do
+Los Angeles received Do
+H: 4
+T: 9
+Los Angeles received the
+Phoenix received the
+Denver received the
+Dallas received the
+St Louis received the
+Chicago received the
+Atlanta received the
+Washington DC received the
+New York received the
+Boston received the
+New York received the
+Washington DC received the
+Atlanta received the
+Chicago received the
+St Louis received the
+Dallas received the
+Denver received the
+Phoenix received the
+Los Angeles received the
+H: 5
+T: 9
+Los Angeles received chickens
+Phoenix received chickens
+Denver received chickens
+Dallas received chickens
+St Louis received chickens
+Chicago received chickens
+Atlanta received chickens
+Washington DC received chickens
+New York received chickens
+Boston received chickens
+New York received chickens
+Washington DC received chickens
+Atlanta received chickens
+Chicago received chickens
+St Louis received chickens
+Dallas received chickens
+Denver received chickens
+Phoenix received chickens
+Los Angeles received chickens
+H: 6
+T: 9
+Los Angeles received have
+Phoenix received have
+Denver received have
+Dallas received have
+St Louis received have
+Chicago received have
+Atlanta received have
+Washington DC received have
+New York received have
+Boston received have
+New York received have
+Washington DC received have
+Atlanta received have
+Chicago received have
+St Louis received have
+Dallas received have
+Denver received have
+Phoenix received have
+Los Angeles received have
+H: 7
+T: 9
+Los Angeles received large
+Phoenix received large
+Denver received large
+Dallas received large
+St Louis received large
+Chicago received large
+Atlanta received large
+Washington DC received large
+New York received large
+Boston received large
+New York received large
+Washington DC received large
+Atlanta received large
+Chicago received large
+St Louis received large
+Dallas received large
+Denver received large
+Phoenix received large
+Los Angeles received large
+H: 8
+T: 9
+Los Angeles received talons?
+Phoenix received talons?
+Denver received talons?
+Dallas received talons?
+St Louis received talons?
+Chicago received talons?
+Atlanta received talons?
+Washington DC received talons?
+New York received talons?
+Boston received talons?
+New York received talons?
+Washington DC received talons?
+Atlanta received talons?
+Chicago received talons?
+St Louis received talons?
+Dallas received talons?
+Denver received talons?
+Phoenix received talons?
+Los Angeles received talons?
+H: 9
+T: 9
+Los Angeles received I
+Phoenix received I
+Denver received I
+Dallas received I
+St Louis received I
+Chicago received I
+Atlanta received I
+Washington DC received I
+New York received I
+Boston received I
+New York received I
+Washington DC received I
+Atlanta received I
+Chicago received I
+St Louis received I
+Dallas received I
+Denver received I
+Phoenix received I
+Los Angeles received I
+H: -1
+T: -1
+E: don’t
+H: 0
+T: 0
+E: understand
+H: 0
+T: 1
+E: a
+H: 0
+T: 2
+E: word
+H: 0
+T: 3
+E: you
+H: 0
+T: 4
+E: just
+H: 0
+T: 5
+E: said.
+H: 0
+T: 6
+Los Angeles received don’t
+Phoenix received don’t
+Denver received don’t
+Dallas received don’t
+St Louis received don’t
+Chicago received don’t
+Atlanta received don’t
+Washington DC received don’t
+New York received don’t
+Boston received don’t
+New York received don’t
+Washington DC received don’t
+Atlanta received don’t
+Chicago received don’t
+St Louis received don’t
+Dallas received don’t
+Denver received don’t
+Phoenix received don’t
+Los Angeles received don’t
+H: 1
+T: 6
+Los Angeles received understand
+Phoenix received understand
+Denver received understand
+Dallas received understand
+St Louis received understand
+Chicago received understand
+Atlanta received understand
+Washington DC received understand
+New York received understand
+Boston received understand
+New York received understand
+Washington DC received understand
+Atlanta received understand
+Chicago received understand
+St Louis received understand
+Dallas received understand
+Denver received understand
+Phoenix received understand
+Los Angeles received understand
+H: 2
+T: 6
+Los Angeles received a
+Phoenix received a
+Denver received a
+Dallas received a
+St Louis received a
+Chicago received a
+Atlanta received a
+Washington DC received a
+New York received a
+Boston received a
+New York received a
+Washington DC received a
+Atlanta received a
+Chicago received a
+St Louis received a
+Dallas received a
+Denver received a
+Phoenix received a
+Los Angeles received a
+H: 3
+T: 6
+Los Angeles received word
+Phoenix received word
+Denver received word
+Dallas received word
+St Louis received word
+Chicago received word
+Atlanta received word
+Washington DC received word
+New York received word
+Boston received word
+New York received word
+Washington DC received word
+Atlanta received word
+Chicago received word
+St Louis received word
+Dallas received word
+Denver received word
+Phoenix received word
+Los Angeles received word
+H: 4
+T: 6
+Los Angeles received you
+Phoenix received you
+Denver received you
+Dallas received you
+St Louis received you
+Chicago received you
+Atlanta received you
+Washington DC received you
+New York received you
+Boston received you
+New York received you
+Washington DC received you
+Atlanta received you
+Chicago received you
+St Louis received you
+Dallas received you
+Denver received you
+Phoenix received you
+Los Angeles received you
+H: 5
+T: 6
+Los Angeles received just
+Phoenix received just
+Denver received just
+Dallas received just
+St Louis received just
+Chicago received just
+Atlanta received just
+Washington DC received just
+New York received just
+Boston received just
+New York received just
+Washington DC received just
+Atlanta received just
+Chicago received just
+St Louis received just
+Dallas received just
+Denver received just
+Phoenix received just
+Los Angeles received just
+H: 6
+T: 6
+Los Angeles received said.
+Phoenix received said.
+Denver received said.
+Dallas received said.
+St Louis received said.
+Chicago received said.
+Atlanta received said.
+Washington DC received said.
+New York received said.
+Boston received said.
+New York received said.
+Washington DC received said.
+Atlanta received said.
+Chicago received said.
+St Louis received said.
+Dallas received said.
+Denver received said.
+Phoenix received said.
+Los Angeles received said.
+H: -1
+T: -1
+======Main Menu======
+1. Build Network
+2. Print Network Path
+3. Enqueue
+4. Dequeue
+5. Print Queue
+6. Send Entire Message
+7. Quit
+Please enter your selection: 7
+Goodbye!
