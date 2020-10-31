@@ -1,1 +1,5 @@
+This is a very simple but pretty interesting example of running brute force simulations in code. 
 
+Enter a number of people, it will give this many people random birthdays and check if any of them have the same birthday.
+
+It's pretty crazy to me that you only need around 100 people before there will almost always be an overlapping birthday.
