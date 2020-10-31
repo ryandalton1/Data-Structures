@@ -1,0 +1,3 @@
+This code creates a bookstore inventory using several arrays. A separate array to store books, CD's, and movies.
+
+Once the data is inserted to these array it will read an actions txt file and perform various actions on the inventory
