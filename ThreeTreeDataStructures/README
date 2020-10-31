@@ -1,0 +1,11 @@
+This is an awesome comparison of a normal binary search tree and balancing binary trees.
+
+A BST, AVL, and RBTree are implemented here and tests are run on all three to compare the pros and cons of each. The raw data is found in the "final data.csv" file but the much more enjoyable data is in the "results.png" file
+
+If you look at the png file you can see the insert and delete times are higher on the balancing trees which makes sense as you need to rotate the graph.
+
+But looking at the worst case find test you can see why balancing trees are important. If your root in a BST is very low or very high then it can turn your BST into essentially a linked list.
+
+However once you balance the tree it will always be able to split the data in half with each search iteration!
+
+Thank you for checking out this comparison project.
