@@ -1,0 +1,5 @@
+This code creates a linked list of cities. Then creates a queue of messages to send.
+
+You are given a menu where you can select what to do, for example if you choose to send the whole message it will queue messages until the queue is full then dequeue and on each dequeue the popped word is sent up and down the linked list.
+
+If you send the whole message you'll see every word queued and dequeued up and down the linked list as shown in the output.txt file
